@@ -1,5 +1,5 @@
 # Image Sketching
-### Idea :
+## Idea :
  The idea is to build an app that will take an normal image/photo as input from the user and convert it into a pencil sketching .
 
 ## Steps :
