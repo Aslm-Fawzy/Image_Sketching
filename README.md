@@ -1,6 +1,6 @@
 # Image Sketching
 ## Idea :
- The idea is to build an app that will take an normal image/photo as input from the user and convert it into a pencil sketching .
+ The idea is to build an computer vision app that will take an normal image/photo as input from the user and convert it into a pencil sketching using oprn CV library.
 
 ## Steps :
 1. Reading Image
